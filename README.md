@@ -8,3 +8,4 @@ def create(a):
 c=a*a
 return c
 print(create(3))
+print(create(7))
